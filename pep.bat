@@ -1,0 +1,1 @@
+node "mailletter.js" "credential.json"
